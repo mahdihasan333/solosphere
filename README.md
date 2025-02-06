@@ -8,7 +8,9 @@ This project is a full-stack web application similar to an online marketplace, w
 
 [Live Project Link](https://solosphere-212f2.web.app)
 
+## Project Preview
 
+![Project Preview](https://ibb.co.com/4gWWd45J)
 
 ## 📖 Table of Contents
 
@@ -18,7 +20,6 @@ This project is a full-stack web application similar to an online marketplace, w
 - [Configuration (.env)](#configuration-env)
 - [Usage](#usage)
 - [Admin Dashboard](#admin-dashboard)
-
 
 ## Technologies Used
 
