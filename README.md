@@ -10,7 +10,7 @@ This project is a full-stack web application similar to an online marketplace, w
 
 ## Project Preview
 
-![Project Preview](https://ibb.co.com/4gWWd45J)
+![Project Preview](https://i.ibb.co.com/VpVVmMP3/Screenshot-2025-02-05-at-5-13-34-PM.png)
 
 ## 📖 Table of Contents
 
